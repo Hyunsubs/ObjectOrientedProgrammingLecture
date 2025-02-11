@@ -23,6 +23,7 @@ private:
 	string address;
 	string job;
 
+
 };
 
 NameCard::NameCard(const string& name, const string& number, const string& address, const string& job)
